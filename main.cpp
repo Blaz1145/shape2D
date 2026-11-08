@@ -5,7 +5,7 @@
 #include  "Rectalgle.h"
 
 int main() { //test gitu
-    shapeLib::Point p1(10,11);
+    shapeLib::Point p1(10,11); //test gitu c. 2
     shapeLib::Point p2( 20,20);
 
     std::cout << "Original p1" << p1 <<std::endl;
